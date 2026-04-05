@@ -1,0 +1,1 @@
+In this course I have learnt about Git and GitHub, including how to create repositories, make commits, work with branches, and collaborate using pull requests. These skills are essential for working on software projevts.
